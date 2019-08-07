@@ -1,0 +1,17 @@
+C:\Users\Randhawa\GameAssign5\GameAssign5\GameAssign5\bin\Debug\GameAssign5.exe.config
+C:\Users\Randhawa\GameAssign5\GameAssign5\GameAssign5\bin\Debug\GameAssign5.exe
+C:\Users\Randhawa\GameAssign5\GameAssign5\GameAssign5\bin\Debug\GameAssign5.pdb
+C:\Users\Randhawa\GameAssign5\GameAssign5\GameAssign5\bin\Debug\EntityFramework.dll
+C:\Users\Randhawa\GameAssign5\GameAssign5\GameAssign5\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Randhawa\GameAssign5\GameAssign5\GameAssign5\bin\Debug\System.Data.SQLite.dll
+C:\Users\Randhawa\GameAssign5\GameAssign5\GameAssign5\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Randhawa\GameAssign5\GameAssign5\GameAssign5\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Randhawa\GameAssign5\GameAssign5\GameAssign5\bin\Debug\EntityFramework.xml
+C:\Users\Randhawa\GameAssign5\GameAssign5\GameAssign5\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Randhawa\GameAssign5\GameAssign5\GameAssign5\bin\Debug\System.Data.SQLite.xml
+C:\Users\Randhawa\GameAssign5\GameAssign5\GameAssign5\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Randhawa\GameAssign5\GameAssign5\GameAssign5\obj\Debug\GameAssign5.csprojAssemblyReference.cache
+C:\Users\Randhawa\GameAssign5\GameAssign5\GameAssign5\obj\Debug\GameAssign5.csproj.CoreCompileInputs.cache
+C:\Users\Randhawa\GameAssign5\GameAssign5\GameAssign5\obj\Debug\GameAssign5.csproj.CopyComplete
+C:\Users\Randhawa\GameAssign5\GameAssign5\GameAssign5\obj\Debug\GameAssign5.exe
+C:\Users\Randhawa\GameAssign5\GameAssign5\GameAssign5\obj\Debug\GameAssign5.pdb
