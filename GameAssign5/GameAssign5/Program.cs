@@ -231,8 +231,9 @@ namespace Game
             sqlite_datareader = sqlite_cmd.ExecuteReader();
             while (sqlite_datareader.Read())
             {
+                int propertyID = sqlite_datareader.GetInt16(0);
                 string myreader = sqlite_datareader.GetString(0);
-                Console.WriteLine(myreader);
+                int propertyValue = sqlite_datareader.GetInt16(2);
             }
             conn.Close();
         }
